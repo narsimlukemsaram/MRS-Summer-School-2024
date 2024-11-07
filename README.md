@@ -1,3 +1,5 @@
+The 2024 IEEE Multi-Robot Systems (MRS) Summer School took place at the Czech Technical University (CTU) in Prague, Czech Republic, from July 29 to August 02, 2024. The event includes lectures, seminars, hands-on sessions, and social activities. 
+
 We participated in both the simulation and real-world challenges. It was a great experience.
 
 # MRS Summer School 2024: Multi-Robot Inspection and Monitoring
