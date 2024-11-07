@@ -1,10 +1,8 @@
-# MRS Summer School 2024: multi-robot inspection and monitoring
+We participated in both the simulation and real-world challenges. It was a great experience.
 
-In this Summer School task, we will focus on the cooperation of a group of two UAVs (Unmanned Aerial Vehicles) in a 3D environment with obstacles.
-The task is to plan collision-free trajectories of the UAVs so that cameras onboard the UAVs inspect a set of *N* unique inspection points.
-Both UAVs have a predefined starting position and a limit on maximal velocity and acceleration.
-The objective of the task is to minimize the time of inspection while capturing all the inspection points and not colliding the UAVs with the environment or with each other.
-An already working solution is provided as a part of the assignment.
+# MRS Summer School 2024: Multi-Robot Inspection and Monitoring
+
+In this summer school task, we focus on the cooperation of a group of two UAVs (Unmanned Aerial Vehicles) in a 3D environment with obstacles. The task is to plan collision-free trajectories of the UAVs so that cameras onboard the UAVs inspect a set of *N* unique inspection points. Both UAVs have a predefined starting position and a limit on maximal velocity and acceleration. The objective of the task is to minimize the time of inspection while capturing all the inspection points and not colliding the UAVs with the environment or with each other. An already working solution is provided as a part of the assignment.
 However, this example solution has poor performance and can be improved significantly.
 
 ## Installation
